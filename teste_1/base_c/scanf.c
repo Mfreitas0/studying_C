@@ -43,7 +43,7 @@ int main()
     scanf("%c", &sexo);
 
     printf("IDADE = %d\n", idade);
-    printf("NOME = %s", nome);
+    printf("NOME = %s \n", nome);
     printf("IDADE2 = %d\n", idade2);
     printf("NOME2 = %s \n", nome2);
     printf("Sexo: %c\n", sexo);
