@@ -37,7 +37,6 @@ int main()
     printf("Digiti o valor da idade 2: ");
     scanf("%d", &idade2);
 
-
     printf("Digite um sexo (F/M): ");
     limpar_entrada();
     scanf("%c", &sexo);
