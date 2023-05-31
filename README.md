@@ -1,4 +1,4 @@
-# Aprendendo C e suas ultilizações. 
+# Estudando C e suas ultilizações. 
 
  _Tipos de dados e variaveis em C_
  
